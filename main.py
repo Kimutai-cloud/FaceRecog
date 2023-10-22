@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 # List of file paths for your three JPG images
-image_paths = ['image.jpg', 'image2.jpg', 'image3.jpg']
+image_paths = ['image.jpg', 'image4.jpg', 'image3.jpg']
 
 for image_path in image_paths:
     img = cv2.imread(image_path)
